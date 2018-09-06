@@ -1,2 +1,2 @@
-# logogenerator
-Logo Generator
+# Purpose
+To generate logos quickly and easily
